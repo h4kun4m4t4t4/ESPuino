@@ -99,6 +99,7 @@ extern const char modificatorPlaylistLoopActive[];
 extern const char modificatorPlaylistLoopDeactive[];
 extern const char modificatorTrackActive[];
 extern const char modificatorTrackDeactive[];
+extern const char modificatorShufflePlaylist[];
 extern const char modificatorNotAllowed[];
 extern const char modificatorLoopRev[];
 extern const char modificatorDoesNotExist[];
