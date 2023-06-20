@@ -58,3 +58,5 @@ time_t AudioPlayer_GetPlayTimeSinceStart(void);
 time_t AudioPlayer_GetPlayTimeAllTime(void);
 uint32_t AudioPlayer_GetCurrentTime(void);
 uint32_t AudioPlayer_GetFileDuration(void);
+
+void AudioPlayer_RandomizeActivePlaylist();
